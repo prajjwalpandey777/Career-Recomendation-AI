@@ -126,6 +126,3 @@ This project demonstrates how **Artificial Intelligence concepts** like rule-bas
 
 ---
 
-## ⭐ If you like this project
-
-Give it a star⭐ on GitHub!
