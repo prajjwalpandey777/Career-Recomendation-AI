@@ -121,10 +121,11 @@ This project demonstrates how **Artificial Intelligence concepts** like rule-bas
 
 ## 👨‍💻 Author
 
-**Your Name Here**
+**Prajjwal Pandey**
+**25BAI11515**
 
 ---
 
 ## ⭐ If you like this project
 
-Give it a ⭐ on GitHub!
+Give it a star⭐ on GitHub!
